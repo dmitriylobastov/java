@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class Start {
     public static void main(String[] args) {
-            long a = 4;
+            long a = 6;
             System.out.println(ninthDegree(a));
         System.out.println("OK");
         }
